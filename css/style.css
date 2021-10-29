@@ -228,8 +228,7 @@ body{
         display:flex;
         flex-direction: column;
         justify-content:center;
-        position: sticky;
-        top:0px;
+        position: static;
     }
     .nav_links{
         display: flex;
