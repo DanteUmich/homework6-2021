@@ -222,6 +222,8 @@ body{
 }
 
 @media print {
-    
+    body{
+        background: red;
+    }
 }
   
