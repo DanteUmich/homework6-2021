@@ -191,7 +191,9 @@ body{
         border-bottom: 3px solid #50C7C7;
         display:flex;
         flex-direction: row;
-        
+        justify-content:space-between;
+        position: sticky;
+        top:0px;
   }
      .nav_links{
         display: flex;
@@ -200,6 +202,7 @@ body{
 
 .card header{
     justify-content:center;
+    position:static;
   }
 }
   
