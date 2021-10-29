@@ -81,6 +81,22 @@ body{
     margin:10px;
   }
 
+  @keyframes logogrow{
+      from{
+          transform: scale(0.119);
+          opacity: 0;
+      }
+      to{
+          transform: scale(1.07);
+          opacity: 1;
+      }
+  }
+
+  #logo{
+      animation-name: logogrow;
+      animation-duration: 5s;
+  }
+
    /*my work^^^*/
   .nav_item a{
     padding: 10px;
