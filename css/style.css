@@ -90,6 +90,7 @@ body{
   .pricing{
     min-height: 475px;
     display:flex;
+    flex-direction:column;
     justify-content:center;
   }
 
