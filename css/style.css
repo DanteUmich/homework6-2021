@@ -241,5 +241,11 @@ body{
     .gallery{
         display:none;
     }
+    .pricing{
+        min-height: 475px;
+        display:flex;
+        flex-direction:row;
+        align-items:end;
+  }
 }
   
