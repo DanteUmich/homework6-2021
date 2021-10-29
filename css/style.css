@@ -51,13 +51,11 @@ body{
   /*my work*/
   .nav_links{
     display: flex;
-    justify-content: center;
     flex-direction: column;
   }
 
   header{
       display:flex;
-      justify-content: center;
       flex-direction: column;
       align-items:center;
   }
