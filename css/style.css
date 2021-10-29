@@ -48,10 +48,20 @@ body{
   *:focus{
     border: 2px solid black;
   }
+  
   /*my work*/
   .nav_links{
     display: flex;
     flex-direction: column;
+  }
+
+  .nav_item a:visited{
+    text-decoration: none;
+    color:#0000f0
+  }
+
+  ul{
+    list-style-type:none;
   }
 
   header{
