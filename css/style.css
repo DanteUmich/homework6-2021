@@ -90,6 +90,7 @@ body{
   .pricing{
     min-height: 475px;
     display:flex;
+    justify-content:center;
   }
 
   .card {
