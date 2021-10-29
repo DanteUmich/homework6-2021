@@ -95,6 +95,7 @@ body{
   #logo{
       animation-name: logogrow;
       animation-duration: 5s;
+      animation-iteration-count: 1;
   }
 
    /*my work^^^*/
