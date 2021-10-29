@@ -179,5 +179,11 @@ body{
         transform: scaleY(1.1);
         z-index: -99;
   }
+    .pricing{
+        min-height: 475px;
+        display:flex;
+        flex-direction:row;
+        align-items:center;
+  }
 }
   
