@@ -214,4 +214,10 @@ body{
     flex-basis: 250px;
   }
 }
+
+@media (prefers-reduced-motion) {
+    #logo{
+        animation-iteration-count: 0;
+    }
+}
   
