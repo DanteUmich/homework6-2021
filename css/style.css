@@ -235,5 +235,11 @@ body{
         display: flex;
         flex-direction: row;
     }
+    body{
+        background: none;
+      }
+    .gallery{
+        display:none;
+    }
 }
   
